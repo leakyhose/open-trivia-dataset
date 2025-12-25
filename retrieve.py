@@ -6,7 +6,7 @@ import sys
 TOKEN_URL = "https://opentdb.com/api_token.php?command=request"
 TOTAL_QUESTIONS_URL = "https://opentdb.com/api_count_global.php"
 API_URL = "https://opentdb.com/api.php"
-OUTPUT_FILE = "data/opentdb_all_questions.json"
+OUTPUT_FILE = "data/all_questions.json"
 API_DELAY_SECONDS = 5.1
 
 def get_token():
