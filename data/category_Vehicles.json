@@ -1,0 +1,906 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which of the following car models has been badge-engineered (rebadged) the most?",
+    "correct_answer": "Isuzu Trooper",
+    "incorrect_answers": [
+      "Holden Monaro",
+      "Suzuki Swift",
+      "Chevy Camaro"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Which of the following collision avoidance systems helps airplanes avoid colliding with each other?",
+    "correct_answer": "TCAS",
+    "incorrect_answers": [
+      "GPWS",
+      "OCAS",
+      "TAWS"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "BMW M GmbH is a subsidiary of BMW AG that focuses on car performance.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which of these car models are produced by Lamborghini?",
+    "correct_answer": "Aventador",
+    "incorrect_answers": [
+      "Huayra",
+      "918",
+      "Chiron"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "What model was the sports car gifted to Yuri Gagarin by the French government in 1965?",
+    "correct_answer": "Matra Djet",
+    "incorrect_answers": [
+      "Porsche 911",
+      "Alpine A110",
+      "AC Cobra"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Volkswagen&#039;s legendary VR6 engine has cylinders positioned at what degree angle?",
+    "correct_answer": "15 Degree",
+    "incorrect_answers": [
+      "30 Degree",
+      "45 Degree",
+      "90 Degree"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Arriva is owned by the Deutsche Bahn.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which of these cars is NOT considered one of the 5 Modern Supercars by Ferrari?",
+    "correct_answer": "Testarossa",
+    "incorrect_answers": [
+      "Enzo Ferrari",
+      "F40",
+      "288 GTO"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Automobiles produced by Tesla Motors operate on which form of energy?",
+    "correct_answer": "Electricity",
+    "incorrect_answers": [
+      "Gasoline",
+      "Diesel",
+      "Nuclear"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Jaguar Cars was previously owned by which car manfacturer?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "Chrysler",
+      "General Motors",
+      "Fiat"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Where are the cars of the brand &quot;Ferrari&quot; manufactured?",
+    "correct_answer": "Italy",
+    "incorrect_answers": [
+      "Romania",
+      "Germany",
+      "Russia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which animal features on the logo for Abarth, the motorsport division of Fiat?",
+    "correct_answer": "Scorpion",
+    "incorrect_answers": [
+      "Snake",
+      "Bull",
+      "Horse"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which of the following countries has officially banned the civilian use of dash cams in cars?",
+    "correct_answer": "Austria",
+    "incorrect_answers": [
+      "United States",
+      "Czechia",
+      "South Korea"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "What is the name of Nissan&#039;s most popular electric car?",
+    "correct_answer": "Leaf",
+    "incorrect_answers": [
+      "Tree",
+      "Deer",
+      "Roots"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which of the following is NOT a Russian car manufacturer?",
+    "correct_answer": "BYD",
+    "incorrect_answers": [
+      "Silant",
+      "Dragon",
+      "GAZ"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Which one of the following is NOT a sub-company of the Volkswagen Group?",
+    "correct_answer": "Opel",
+    "incorrect_answers": [
+      "Porsche",
+      "Bugatti",
+      "Bentley"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "What car manufacturer gave away their patent for the seat-belt in the interest of saving lives?",
+    "correct_answer": "Volvo",
+    "incorrect_answers": [
+      "Ferrari",
+      "Ford",
+      "Renault"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "When BMW was established in 1916, it was producing automobiles.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Which car tire manufacturer is famous for its &quot;Eagle&quot; brand of tires, and is the official tire supplier of NASCAR?",
+    "correct_answer": "Goodyear",
+    "incorrect_answers": [
+      "Pirelli",
+      "Bridgestone",
+      "Michelin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "What manufacturer made the car used in Back to the Future?",
+    "correct_answer": "DeLorean",
+    "incorrect_answers": [
+      "Ford",
+      "Toyota",
+      "Daihatsu"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which of the following passenger jets is the longest?",
+    "correct_answer": "Boeing 747-8",
+    "incorrect_answers": [
+      "Airbus A350-1000",
+      "Airbus A330-200",
+      "Boeing 787-10"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which supercar company is from Sweden?",
+    "correct_answer": "Koenigsegg",
+    "incorrect_answers": [
+      "Bugatti",
+      "Lamborghini",
+      "McLaren"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Which of these companies does NOT manufacture motorcycles?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Kawasaki",
+      "Yamaha"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "What year did the Chevrolet LUV mini truck make its debut?",
+    "correct_answer": "1972",
+    "incorrect_answers": [
+      "1982",
+      "1975",
+      "1973"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Bugatti was an Italian car manufacturer.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "When was Tesla founded?",
+    "correct_answer": "2003",
+    "incorrect_answers": [
+      "2008",
+      "2005",
+      "2007"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "What country is the Hussarya supercar, made by the car manufacturer &quot;Arrinera&quot;, assembled in?",
+    "correct_answer": "Poland",
+    "incorrect_answers": [
+      "China",
+      "Sweden",
+      "Italy"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "When was Cadillac founded?",
+    "correct_answer": "1902",
+    "incorrect_answers": [
+      "1964",
+      "1898",
+      "1985"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Complete the following analogy: Audi is to Volkswagen as Infiniti is to ?",
+    "correct_answer": "Nissan",
+    "incorrect_answers": [
+      "Honda",
+      "Hyundai",
+      "Subaru"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "What do the 4 Rings in Audi&#039;s Logo represent?",
+    "correct_answer": "Previously independent automobile manufacturers",
+    "incorrect_answers": [
+      "States in which Audi makes the most sales",
+      "Main cities vital to Audi",
+      "Countries in which Audi makes the most sales"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?",
+    "correct_answer": "Faulty ignition switch",
+    "incorrect_answers": [
+      "Malfunctioning gas pedal",
+      "Breaking fuel lines",
+      "Faulty brake pads"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "The difference between the lengths of a Boeing 777-300ER and an Airbus A350-1000 is closest to:",
+    "correct_answer": "0.1m",
+    "incorrect_answers": [
+      "1m",
+      "10m ",
+      "100m"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "There is a Rolls-Royce model called the &#039;Spectre&#039;",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "The LS3 engine is how many cubic inches?",
+    "correct_answer": "376",
+    "incorrect_answers": [
+      "346",
+      "364",
+      "427"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "The LS7 engine is how many cubic inches?",
+    "correct_answer": "427",
+    "incorrect_answers": [
+      "346",
+      "364",
+      "376"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "What UK Train does NOT go over 125MPH?",
+    "correct_answer": "Sprinter",
+    "incorrect_answers": [
+      "Class 43",
+      "Javelin",
+      "Pendolino"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which of the following vehicles featured a full glass roof at base model?",
+    "correct_answer": "Renault Avantime",
+    "incorrect_answers": [
+      "Chevy Volt",
+      "Mercedes-Benz A-Class",
+      "Honda Odyssey"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "The LS1 engine is how many cubic inches?",
+    "correct_answer": "346",
+    "incorrect_answers": [
+      "350",
+      "355",
+      "360"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Which of these is NOT a car model produced by Malaysian car manufacturer Proton?",
+    "correct_answer": "Kelisa",
+    "incorrect_answers": [
+      "Saga",
+      "Perdana",
+      "Inspira"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which car brand does NOT belong to General Motors?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "Buick",
+      "Cadillac",
+      "Chevrolet"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which one is NOT the function of engine oil in car engines?",
+    "correct_answer": "Combustion",
+    "incorrect_answers": [
+      "Lubrication",
+      "Cooling",
+      "Reduce corrosion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "The British Rail Class 700, Class 707 and the Class 717 are part of what train family?",
+    "correct_answer": "Desiro City",
+    "incorrect_answers": [
+      "Networker",
+      "Aventra",
+      "Electrostar"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which country has the international vehicle registration letter &#039;A&#039;?",
+    "correct_answer": "Austria",
+    "incorrect_answers": [
+      "Afghanistan",
+      "Australia",
+      "Armenia"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "The majority of Subaru vehicles are made in China.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "The Italian automaker Lamborghini uses what animal as its logo?",
+    "correct_answer": "Bull",
+    "incorrect_answers": [
+      "Bat",
+      "Horse",
+      "Snake"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Ferrari has never made a V10 engine for any of its cars.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "What kind of train was Stepney, a train on the Bluebell Railway notable for his appearance in &quot;The Railway Series&quot;?",
+    "correct_answer": "LB&amp;SCR A1X",
+    "incorrect_answers": [
+      "LB&amp;SCR E2",
+      "LB&amp;SCR J1",
+      "LB&amp;SCR D1"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "What engine is in the Lexus SC400?",
+    "correct_answer": "1UZ-FE",
+    "incorrect_answers": [
+      "2JZ-GTE",
+      "7M-GTE",
+      "5M-GE"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which Japanese company is the world&#039;s largest manufacturer of motorcycles?",
+    "correct_answer": "Honda",
+    "incorrect_answers": [
+      "Yamaha",
+      "Suzuki",
+      "Kawasaki"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "In 1993 Swedish car manufacturer Saab experimented with replacing the steering wheel with a joystick in a Saab 9000.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Which Italian city is home of the car manufacturer &#039;Fiat&#039;?",
+    "correct_answer": "Turin",
+    "incorrect_answers": [
+      "Maranello",
+      "Modena",
+      "Rome"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "How many wheels does a unicycle have?",
+    "correct_answer": "1",
+    "incorrect_answers": [
+      "4",
+      "3",
+      "6"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Which car tire manufacturer is famous for its &quot;P Zero&quot; line?",
+    "correct_answer": "Pirelli",
+    "incorrect_answers": [
+      "Goodyear",
+      "Bridgestone",
+      "Michelin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "How much horsepower is produced by the SD40-2 Locomotive?",
+    "correct_answer": "3,000",
+    "incorrect_answers": [
+      "3,200",
+      "2,578",
+      "2,190"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "The General Motors EV1 was the first street-legal production electric vehicle.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "The Chevrolet Corvette has always been made exclusively with V8 engines only.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Which Audi does not use Haldex based all wheel drive system?",
+    "correct_answer": "Audi A8",
+    "incorrect_answers": [
+      "Audi TT",
+      "Audi S3",
+      "Audi A3"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "The term &quot;GTO&quot; was originated by Ferrari?",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "What are the cylinder-like parts that pump up and down within the engine?",
+    "correct_answer": "Pistons",
+    "incorrect_answers": [
+      "Leaf Springs",
+      "Radiators",
+      "ABS"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "The Honda Motor Corporation originates in Japan",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "What is the fastest road legal car in the world?",
+    "correct_answer": "Koenigsegg Agera RS",
+    "incorrect_answers": [
+      "Hennessy Venom GT",
+      "Bugatti Veyron Super Sport",
+      "Pagani Huayra BC"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "What part of an automobile engine uses lobes to open and close intake and exhaust valves, and allows an air/fuel mixture into the engine?",
+    "correct_answer": "Camshaft",
+    "incorrect_answers": [
+      "Piston",
+      "Drive shaft",
+      "Crankshaft"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "The snowmobile was invented by Canadian Joseph-Armand Bombardier in 1937.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "The Japanese Shinkansen beat the French TGV&#039;s speed record for fastest electric rail train.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?",
+    "correct_answer": "Alfa Romeo",
+    "incorrect_answers": [
+      "Auto Union",
+      "Mercedes Benz",
+      "Bentley"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which car manufacturer created the &quot;Aventador&quot;?",
+    "correct_answer": "Lamborghini",
+    "incorrect_answers": [
+      "Ferrari",
+      "Pagani",
+      "Bugatti"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "What nickname was given to Air Canada Flight 143 after it ran out of fuel and glided to safety in 1983?",
+    "correct_answer": "Gimli Glider",
+    "incorrect_answers": [
+      "Gimli Microlight",
+      "Gimli Chaser",
+      "Gimli Superb"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "The full English name of the car manufacturer BMW is Bavarian Motor Works",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Mitsubishi Motors has had a 30-year partnership with Jackie Chan, whose movies have prominently featured their vehicles.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "What country was the Trabant 601 manufactured in?",
+    "correct_answer": "East Germany",
+    "incorrect_answers": [
+      "Soviet Union",
+      "Hungary",
+      "France"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Which Variable Valve Timing technology is used by BMW?",
+    "correct_answer": "VANOS",
+    "incorrect_answers": [
+      "VVT-iw",
+      "VVEL",
+      "MultiAir"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Which of the following car manufacturers had a war named after it?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Ford",
+      "Volkswagen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Which one of these chassis codes are used by BMW 3-series?",
+    "correct_answer": "E46",
+    "incorrect_answers": [
+      "E39",
+      "E85",
+      "F10"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "The LS2 engine is how many cubic inches?",
+    "correct_answer": "364",
+    "incorrect_answers": [
+      "346",
+      "376",
+      "402"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?",
+    "correct_answer": "Cherry",
+    "incorrect_answers": [
+      "Sunny",
+      "Bluebird",
+      "Skyline"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Which car is the first mass-produced hybrid vehicle?",
+    "correct_answer": "Toyota Prius",
+    "incorrect_answers": [
+      "Chevrolet Volt",
+      "Honda Fit",
+      "Peugeot 308 R HYbrid"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Which one of the following is not made by Ford?",
+    "correct_answer": "Camry",
+    "incorrect_answers": [
+      "Fusion",
+      "Model A",
+      "F-150"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Which of the following FIA Rally cars was approved for use in the Group B class first? ",
+    "correct_answer": "Porsche 911 Turbo",
+    "incorrect_answers": [
+      "Audi Quattro A2",
+      "BMW M1",
+      "Lancia Rally 037"
+    ]
+  }
+]
