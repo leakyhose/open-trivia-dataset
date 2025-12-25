@@ -1,0 +1,768 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Which of the following is not one of the Greek Fates?",
+    "correct_answer": "Narcissus",
+    "incorrect_answers": [
+      "Clotho",
+      "Atropos",
+      "Lachesis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "In Norse Mythology, what is the name of the symbol commonly referred to as the &quot;Tree of Life&quot;?",
+    "correct_answer": "Yggdrasil",
+    "incorrect_answers": [
+      "Ymir",
+      "Tree of the Earth",
+      "Odin&#039;s Roots"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "According to Greek Mythology, Zeus can control lightning.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Ska&eth;i is the Norse Goddess of skiing, mountains, winter and bowhunting.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "How many heads does Cerberus have?",
+    "correct_answer": "3",
+    "incorrect_answers": [
+      "2",
+      "1",
+      "5"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "In most traditions, who was the wife of Zeus?",
+    "correct_answer": "Hera",
+    "incorrect_answers": [
+      "Aphrodite",
+      "Athena",
+      "Hestia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "The ancient Roman god of war was commonly known as which of the following?",
+    "correct_answer": "Mars",
+    "incorrect_answers": [
+      "Jupiter",
+      "Juno",
+      "Ares"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "What is the name of the Greek god of blacksmiths?",
+    "correct_answer": "Hephaestus",
+    "incorrect_answers": [
+      "Dyntos",
+      "Vulcan",
+      "Artagatus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "What is the name of the Greek god of peaceful deaths?",
+    "correct_answer": "Thanatos",
+    "incorrect_answers": [
+      "Tartarus",
+      "Hades",
+      "Moros"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "In Greek mythology, Hera is the goddess of harvest.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Who is the Egyptian god of reproduction and lettuce?",
+    "correct_answer": "Min",
+    "incorrect_answers": [
+      "Menu",
+      "Mut",
+      "Meret"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "The Roman god &quot;Jupiter&quot; was first known as &quot;Zeus&quot; to the Greeks.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "The greek god Poseidon was the god of what?",
+    "correct_answer": "The Sea",
+    "incorrect_answers": [
+      "War",
+      "Sun",
+      "Fire"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+    "correct_answer": "Spider",
+    "incorrect_answers": [
+      "Wild dog",
+      "Monkey",
+      "Crocodile"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Hel was the daughter of which Norse Mythological figure?",
+    "correct_answer": "Loki",
+    "incorrect_answers": [
+      "Thor",
+      "Odin",
+      "Balder"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "In the Greek Mythology, the god of war is called Mars.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Who was the Roman god of fire?",
+    "correct_answer": "Vulcan",
+    "incorrect_answers": [
+      "Apollo",
+      "Jupiter",
+      "Mercury"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
+    "correct_answer": "A Horse",
+    "incorrect_answers": [
+      "A Dragon",
+      "A Tiger",
+      "A Lion"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "In Norse mythology, Thor once dressed as a woman.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
+    "correct_answer": "Set",
+    "incorrect_answers": [
+      "Horus",
+      "Ra",
+      "Anhur"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+    "correct_answer": "Eris",
+    "incorrect_answers": [
+      "Charon",
+      "Ceres",
+      "Dysnomia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "In Greek mythology, who is the god of wine?",
+    "correct_answer": "Dionysus",
+    "incorrect_answers": [
+      "Hephaestus",
+      "Demeter",
+      "Apollo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+    "correct_answer": "Enkidu",
+    "incorrect_answers": [
+      "Enki",
+      "Enlil",
+      "Enkimdu"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Which of the following is not true about the life of Tiresias?",
+    "correct_answer": "Sailed with the Argonauts to find the golden fleece",
+    "incorrect_answers": [
+      "Athena turned him into a woman, and then years later back into a man",
+      "Hera blinded him after he agreed with Zeus in an argument",
+      "Revealed to Oedipus that Oedipus had married his own mother"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+    "correct_answer": "Nidhogg",
+    "incorrect_answers": [
+      "Bragi",
+      "Odin",
+      "Ymir"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+    "correct_answer": "Jason",
+    "incorrect_answers": [
+      "Castor",
+      "Daedalus",
+      "Odysseus"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "A wyvern is the same as a dragon.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "What immense structure is referred to in Norse Mythology as the Yggdrasil.",
+    "correct_answer": "Tree",
+    "incorrect_answers": [
+      "Mountain",
+      "Temple",
+      "Castle"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+    "correct_answer": "Victory",
+    "incorrect_answers": [
+      "Courage",
+      "Strength",
+      "Honor"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "What is the name of the first human being in Norse mythology?",
+    "correct_answer": "Ask",
+    "incorrect_answers": [
+      "Asmund",
+      "Ake",
+      "Asger"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Neptune&#039;s greek name was...",
+    "correct_answer": "Poseidon",
+    "incorrect_answers": [
+      "Ares",
+      "Zeus",
+      "Apollo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "According to Japanese folklore, what is the favorite food of the Kappa.",
+    "correct_answer": "Cucumbers",
+    "incorrect_answers": [
+      "Kabocha",
+      "Nasu",
+      "Soba"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "In Greek mythology, Persephone must return to the underworld because she had eaten what kind of seeds?",
+    "correct_answer": "Pomegranate",
+    "incorrect_answers": [
+      "Sunflower",
+      "Orange",
+      "Fig"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Nidhogg is a mythical creature from what mythology?",
+    "correct_answer": "Norse",
+    "incorrect_answers": [
+      "Egyptian",
+      "Greek",
+      "Hindu"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "The Japanese god Izanagi successfully returned his wife Izanami from the Underworld.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Which of the following is NOT a god in Norse Mythology.",
+    "correct_answer": "Jens",
+    "incorrect_answers": [
+      "Loki",
+      "Tyr",
+      "Snotra"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "A minotaur is half human half what?",
+    "correct_answer": "Bull",
+    "incorrect_answers": [
+      "Cow",
+      "Horse",
+      "Eagle"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+    "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+    "incorrect_answers": [
+      "Tied to a boulder for eternity, being pecked by birds.",
+      "Standing in a lake filled with water he could not drink.",
+      "To fell a tree that regenerated after every axe swing."
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Talos, the mythical giant bronze man, was the protector of which island?",
+    "correct_answer": "Crete",
+    "incorrect_answers": [
+      "Sardinia",
+      "Sicily",
+      "Cyprus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+    "correct_answer": "Apollo",
+    "incorrect_answers": [
+      "Aphrodite",
+      "Artemis",
+      "Athena"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "According to Algonquian folklore, how does one transform into a Wendigo?",
+    "correct_answer": "Participating in cannibalism.",
+    "incorrect_answers": [
+      "Excessive mutilation of animal corpses.",
+      "Performing a ritual involving murder.",
+      "Drinking the blood of many slain animals."
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "According to Norse mythology, Loki is a mother.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+    "correct_answer": "Centaur",
+    "incorrect_answers": [
+      "Minotaur",
+      "Pegasus",
+      "Gorgon"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?",
+    "correct_answer": "Mistletoe",
+    "incorrect_answers": [
+      "Wolf&#039;s Bane",
+      "Buckthorn",
+      "Hemlock"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "According to Greek Mythology, Atlas was an Olympian God.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Who did Hippomenes defeat in a footrace?",
+    "correct_answer": "Atalanta",
+    "incorrect_answers": [
+      "Peleus",
+      "Theseus",
+      "Jason"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Who is the God Loki&#039;s son? ",
+    "correct_answer": "Fenrir ",
+    "incorrect_answers": [
+      "Odin",
+      "Hel",
+      "Sigyn"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+    "correct_answer": "Orpheus",
+    "incorrect_answers": [
+      "Hercules",
+      "Perseus",
+      "Daedalus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?",
+    "correct_answer": "Bull",
+    "incorrect_answers": [
+      "Pig",
+      "Ox",
+      "Horse"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Rannamaari was a sea demon that haunted the people of the Maldives and had to be appeased monthly with the sacrifice of a virgin girl.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "In the Greek Mythology, the Gorgon can turn those who behold her to stone.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Hera is god of...",
+    "correct_answer": "Marriage",
+    "incorrect_answers": [
+      "Agriculture",
+      "Sea",
+      "War"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Which Norse God has a horse named Sleipnir?",
+    "correct_answer": "Odin",
+    "incorrect_answers": [
+      "Thor",
+      "Frigg",
+      "Balder"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+    "correct_answer": "Athena",
+    "incorrect_answers": [
+      "Ares",
+      "Artemis",
+      "Apollo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": [
+      "Vanuatu",
+      "Fiji",
+      "Hawaii"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "What mytological creatures have women&#039;s faces and vultures&#039; bodies?",
+    "correct_answer": "Harpies",
+    "incorrect_answers": [
+      "Mermaids",
+      "Nymph",
+      "Lilith"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "In Greek Mythology, who killed Achilles?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "Hector",
+      "Helen",
+      "Pericles"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "The Norse god Odin has two pet crows named &quot;Huginn&quot; and &quot;Muninn&quot;.  What do their names mean?",
+    "correct_answer": "Thought &amp; Memory",
+    "incorrect_answers": [
+      "Power &amp; Peace",
+      "War &amp; Learning",
+      "Sleeping &amp; Waking"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Janus was the Roman god of doorways and passageways.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.",
+    "correct_answer": "Aristaeus",
+    "incorrect_answers": [
+      "Autonoe",
+      "Carme",
+      "Cephisso"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+    "correct_answer": "Janus",
+    "incorrect_answers": [
+      "Vulcan",
+      "Juno",
+      "Mars"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Who was the only god from Greece who did not get a name change in Rome?",
+    "correct_answer": "Apollo",
+    "incorrect_answers": [
+      "Demeter",
+      "Zeus",
+      "Athena"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "What mythology did the god &quot;Apollo&quot; come from?",
+    "correct_answer": "Greek and Roman",
+    "incorrect_answers": [
+      "Roman and Spanish",
+      "Greek and Chinese",
+      "Greek, Roman and Norse"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Who was the King of Gods in Ancient Greek mythology?",
+    "correct_answer": "Zeus",
+    "incorrect_answers": [
+      "Apollo",
+      "Hermes",
+      "Poseidon"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Who is the god of war in Polynesian mythology?",
+    "correct_answer": "&#039;Oro",
+    "incorrect_answers": [
+      "Hina",
+      "Kohara",
+      "Māui"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "In Greek Mythology, who was the daughter of King Minos?",
+    "correct_answer": "Ariadne",
+    "incorrect_answers": [
+      "Athena",
+      "Ariel",
+      "Alana"
+    ]
+  }
+]
