@@ -3,6 +3,98 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entertainment: Board Games",
+    "question": "Who was the first official world chess champion?",
+    "correct_answer": "Wilhelm Steinitz",
+    "incorrect_answers": [
+      "Jos&eacute; Ra&uacute;l Capablanca",
+      "Emanuel Lasker",
+      "Bobby Fischer"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Which card is on the cover of the Beta rulebook of &quot;Magic: The Gathering&quot;?",
+    "correct_answer": "Bog Wraith",
+    "incorrect_answers": [
+      "Island",
+      "Rock Hydra",
+      "Elvish Archers"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "What type is &quot;Magic Drain&quot; in Yugioh! Trading Card Game?",
+    "correct_answer": "Counter Trap",
+    "incorrect_answers": [
+      "Normal Trap",
+      "Quick-Play Spell",
+      "Field Spell"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "On a standard Monopoly board, how much do you have to pay for Tennessee Ave?",
+    "correct_answer": "$180",
+    "incorrect_answers": [
+      "$200",
+      "$160",
+      "$220"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "The Angry Video Game Nerd&#039;s alter ego is &quot;Board James&quot;.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "How many spaces are there on a standard Monopoly board?",
+    "correct_answer": "40",
+    "incorrect_answers": [
+      "28",
+      "55",
+      "36"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Which ability from the &quot;Magic: The Gathering&quot; Scars of Mirrodin expansion involves having at least three artifacts in play?",
+    "correct_answer": "Metalcraft",
+    "incorrect_answers": [
+      "Affinity",
+      "Imprint",
+      "Living Weapon"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "The top human players can easily beat the top computers at chess",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
     "question": "Which of the following characters is not in the board game Clue?",
     "correct_answer": "Mister Indigo",
     "incorrect_answers": [
@@ -13,24 +105,26 @@
   },
   {
     "type": "multiple",
-    "difficulty": "hard",
+    "difficulty": "medium",
     "category": "Entertainment: Board Games",
-    "question": "What is the sum of all the tiles in a standard box of Scrabble?",
-    "correct_answer": "187",
+    "question": "The board game, Nightmare was released in what year?",
+    "correct_answer": "1991",
     "incorrect_answers": [
-      "207",
-      "197",
-      "177"
+      "1992",
+      "1989",
+      "1995"
     ]
   },
   {
-    "type": "boolean",
-    "difficulty": "easy",
+    "type": "multiple",
+    "difficulty": "medium",
     "category": "Entertainment: Board Games",
-    "question": "When setting up a chess board, the king is placed on a square of his own color.",
-    "correct_answer": "False",
+    "question": "Which of the following is not a color of mana in Magic: The Gathering?",
+    "correct_answer": "Yellow",
     "incorrect_answers": [
-      "True"
+      "White",
+      "Green",
+      "Blue"
     ]
   },
   {
@@ -46,15 +140,121 @@
     ]
   },
   {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "&quot;Rich Uncle Pennybags&quot; from the board game &quot;Monopoly&quot; wears a monocle.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "When Magic: The Gathering was first solicited, which of the following was it originally titled?",
+    "correct_answer": "Mana Clash",
+    "incorrect_answers": [
+      "Magic",
+      "Magic Clash",
+      "Mana Duels"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "What Magic: The Gathering card&#039;s flavor text is just &#039;Ribbit.&#039;?",
+    "correct_answer": "Turn to Frog",
+    "incorrect_answers": [
+      "Spore Frog",
+      "Bloated Toad",
+      "Frogmite"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "The board game Monopoly takes its street names from which real American city?",
+    "correct_answer": "Atlantic City, New Jersey",
+    "incorrect_answers": [
+      "Las Vegas, Nevada",
+      "Duluth, Minnesota",
+      "Charleston, South Carolina"
+    ]
+  },
+  {
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entertainment: Board Games",
-    "question": "The board game, Nightmare was released in what year?",
-    "correct_answer": "1991",
+    "question": "Which of the following tabletop games is the oldest?",
+    "correct_answer": "Go",
     "incorrect_answers": [
-      "1992",
-      "1989",
-      "1995"
+      "Chess",
+      "Mahjong",
+      "Shogi"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Which of the following is NOT a class in Dungeons and Dragons 5e?",
+    "correct_answer": "Engineer ",
+    "incorrect_answers": [
+      "Fighter ",
+      "Paladin ",
+      "Bard"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "In Magic: The Gathering, which of the following was the first publicly released foil card?",
+    "correct_answer": "Lightning Dragon",
+    "incorrect_answers": [
+      "Revenant",
+      "Beast of Burden",
+      "Dirtcowl Wurm"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?",
+    "correct_answer": "Electric Company",
+    "incorrect_answers": [
+      "Water Works",
+      "Chance",
+      "Community Chest"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "How many dice are used in the game of Yahtzee?",
+    "correct_answer": "Five",
+    "incorrect_answers": [
+      "Four",
+      "Six",
+      "Eight"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "On a standard Monopoly board, which square is diagonally opposite &#039;Go&#039;? ",
+    "correct_answer": "Free Parking",
+    "incorrect_answers": [
+      "Go to Jail",
+      "Jail",
+      "The Electric Company"
     ]
   },
   {
@@ -83,212 +283,6 @@
   },
   {
     "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "On a standard Monopoly board, which square is diagonally opposite &#039;Go&#039;? ",
-    "correct_answer": "Free Parking",
-    "incorrect_answers": [
-      "Go to Jail",
-      "Jail",
-      "The Electric Company"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "The Dice Tower network of board game podcasts and videos is run by which individual?",
-    "correct_answer": "Tom Vasel",
-    "incorrect_answers": [
-      "Jason LeVine",
-      "Borth Sampson",
-      "Uncle Pennybags"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "The card game &quot;Munchkin&quot; won the 2001 Origins Award for Best Traditional Card Game.",
-    "correct_answer": "True",
-    "incorrect_answers": [
-      "False"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "Which ability from the &quot;Magic: The Gathering&quot; Scars of Mirrodin expansion involves having at least three artifacts in play?",
-    "correct_answer": "Metalcraft",
-    "incorrect_answers": [
-      "Affinity",
-      "Imprint",
-      "Living Weapon"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "What was the development code name for the &quot;Weatherlight&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1997?",
-    "correct_answer": "Mocha Latte",
-    "incorrect_answers": [
-      "Decaf",
-      "Frappuccino",
-      "Macchiato"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "In the game &quot;Racko&quot; you may pick up ANY card from the discard pile.",
-    "correct_answer": "False",
-    "incorrect_answers": [
-      "True"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "&quot;Rich Uncle Pennybags&quot; from the board game &quot;Monopoly&quot; wears a monocle.",
-    "correct_answer": "False",
-    "incorrect_answers": [
-      "True"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "In the Dungeons and Dragons universe, Beshaba is the deity of bad luck. ",
-    "correct_answer": "True",
-    "incorrect_answers": [
-      "False"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "The board game Go has more possible legal positions than the number of atoms in the visible universe.",
-    "correct_answer": "True",
-    "incorrect_answers": [
-      "False"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "What happens when you roll 3 doubles in a row in Monopoly?",
-    "correct_answer": "Go to jail",
-    "incorrect_answers": [
-      "Get paid $200",
-      "Pay $200",
-      "Move to Free Parking"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "In Magic: The Gathering, what term for blocking was established in the Portal set?",
-    "correct_answer": "Intercepting",
-    "incorrect_answers": [
-      "Blocking",
-      "Resisting",
-      "Shielding"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "Which of the following is NOT a class in Dungeons and Dragons 5e?",
-    "correct_answer": "Engineer ",
-    "incorrect_answers": [
-      "Fighter ",
-      "Paladin ",
-      "Bard"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "What is the world&#039;s oldest board game?",
-    "correct_answer": "Senet",
-    "incorrect_answers": [
-      "Chess",
-      "Checkers",
-      "Go"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "In chess, which is a characteristic of the King&#039;s Gambit?",
-    "correct_answer": "Sacrificing a pawn",
-    "incorrect_answers": [
-      "Sacrificing the king for a queen",
-      "Castling kingside",
-      "Moving the king on the 2nd move"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "Which card is on the cover of the Beta rulebook of &quot;Magic: The Gathering&quot;?",
-    "correct_answer": "Bog Wraith",
-    "incorrect_answers": [
-      "Island",
-      "Rock Hydra",
-      "Elvish Archers"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "How many pieces are there on the board at the start of a game of chess?",
-    "correct_answer": "32",
-    "incorrect_answers": [
-      "16",
-      "20",
-      "36"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "On a standard Monopoly board, how much do you have to pay for Tennessee Ave?",
-    "correct_answer": "$180",
-    "incorrect_answers": [
-      "$200",
-      "$160",
-      "$220"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "What special item did the creators of Cards Against Humanity ship for their Black Friday pack?",
-    "correct_answer": "Bull Feces",
-    "incorrect_answers": [
-      "A Card Expansion",
-      "A Racist Toy",
-      "Cat Urine"
-    ]
-  },
-  {
-    "type": "multiple",
     "difficulty": "hard",
     "category": "Entertainment: Board Games",
     "question": "The board game &quot;Monopoly&quot; is a variation of what board game?",
@@ -297,476 +291,6 @@
       "Territorial Dispute",
       "Property Feud",
       "The Monopolist&#039;s Game"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "What Magic: The Gathering card&#039;s flavor text is just &#039;Ribbit.&#039;?",
-    "correct_answer": "Turn to Frog",
-    "incorrect_answers": [
-      "Spore Frog",
-      "Bloated Toad",
-      "Frogmite"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "Who is the main character in the VHS tape included in the board game Nightmare?",
-    "correct_answer": "The Gatekeeper",
-    "incorrect_answers": [
-      "The Kryptkeeper",
-      "The Monster",
-      "The Nightmare"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?",
-    "correct_answer": "Electric Company",
-    "incorrect_answers": [
-      "Water Works",
-      "Chance",
-      "Community Chest"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "In Magic: The Gathering, what card&#039;s flavor text is &quot;Catch!&quot;?",
-    "correct_answer": "Lava Axe",
-    "incorrect_answers": [
-      "Stone-Throwing Devils",
-      "Ember Shot",
-      "Throwing Knife"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "Who was world chess champion between 1894 and 1921",
-    "correct_answer": "Emanuel Lasker",
-    "incorrect_answers": [
-      "Jos&eacute; Ra&uacute;l Capablanca",
-      "Wilhelm Steinitz",
-      "Bobby Fischer"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "Which of the following is not a color of mana in Magic: The Gathering?",
-    "correct_answer": "Yellow",
-    "incorrect_answers": [
-      "White",
-      "Green",
-      "Blue"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "In standard Monopoly, what&#039;s the rent if you land on Park Place with no houses?",
-    "correct_answer": "$35",
-    "incorrect_answers": [
-      "$30",
-      "$50",
-      "$45"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "Snakes and Ladders was originally created in India?",
-    "correct_answer": "True",
-    "incorrect_answers": [
-      "False"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "In Dungeons and Dragons (5th edition), what stat do you normally add onto your initiative die roll?",
-    "correct_answer": "Dexterity",
-    "incorrect_answers": [
-      "Speed",
-      "Strength",
-      "Wisdom"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "Which of these cards from &quot;Magic: The Gathering&quot; has a flavor text that begins with &quot;Oi oi oi&quot;?",
-    "correct_answer": "Uthden Troll",
-    "incorrect_answers": [
-      "Lotleth Troll",
-      "Albino Troll",
-      "Harvester Troll"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
-    "correct_answer": "Brown",
-    "incorrect_answers": [
-      "Green",
-      "Yellow",
-      "Blue"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "In Magic: The Gathering, what was a tribute card to Jamie Wakefield&#039;s late wife Marilyn, who loved horses?",
-    "correct_answer": "Timbermare",
-    "incorrect_answers": [
-      "Loyal Pegasus",
-      "Vryn Wingmare",
-      "Sungrace Pegasus"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "The top human players can easily beat the top computers at chess",
-    "correct_answer": "False",
-    "incorrect_answers": [
-      "True"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "How many dots are on a single die?",
-    "correct_answer": "21",
-    "incorrect_answers": [
-      "24",
-      "15",
-      "18"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "In the Board Game, Settlers of Catan, a die roll of what number causes the Robber to attack? ",
-    "correct_answer": "7",
-    "incorrect_answers": [
-      "3",
-      "10",
-      "1"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "In Magic: The Gathering, which of the following was the first publicly released foil card?",
-    "correct_answer": "Lightning Dragon",
-    "incorrect_answers": [
-      "Revenant",
-      "Beast of Burden",
-      "Dirtcowl Wurm"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "How many points is the Z tile worth in Scrabble?",
-    "correct_answer": "10",
-    "incorrect_answers": [
-      "8",
-      "5",
-      "6"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "Which one of these is not a real game in the Dungeons &amp; Dragons series?",
-    "correct_answer": "Extreme Dungeons &amp; Dragons",
-    "incorrect_answers": [
-      "Advanced Dungeons &amp; Dragons",
-      "Dungeons &amp; Dragons 3.5th edition",
-      "Advanced Dungeons &amp; Dragons 2nd edition"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "Which of these cities is NOT featured in the Pandemic board game?",
-    "correct_answer": "Berlin",
-    "incorrect_answers": [
-      "Ho Chi Minh City",
-      "Lagos",
-      "Karachi"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "How many dice are used in the game of Yahtzee?",
-    "correct_answer": "Five",
-    "incorrect_answers": [
-      "Four",
-      "Six",
-      "Eight"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "The Angry Video Game Nerd&#039;s alter ego is &quot;Board James&quot;.",
-    "correct_answer": "True",
-    "incorrect_answers": [
-      "False"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "What do you declare in Rīchi Mahjong when you&#039;ve drawn your winning tile?",
-    "correct_answer": "Tsumo",
-    "incorrect_answers": [
-      "Ron",
-      "Rīchi",
-      "Kan"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "The board game &quot;Ra&quot; was designed by which designer? ",
-    "correct_answer": "Reiner Knizia",
-    "incorrect_answers": [
-      "Bruno Cathala",
-      "Uwe Rosenburg",
-      "Allison Kline"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "In what year was the card game Magic: the Gathering first introduced?",
-    "correct_answer": "1993",
-    "incorrect_answers": [
-      "1987",
-      "1998",
-      "2003"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "Which character class in Dungeons and Dragons 5th edition gains it&#039;s powers from making a pact with a being of higher power?",
-    "correct_answer": "Warlock",
-    "incorrect_answers": [
-      "Wizard",
-      "Sorceror",
-      "Cleric"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "Which of the following tabletop games is the oldest?",
-    "correct_answer": "Go",
-    "incorrect_answers": [
-      "Chess",
-      "Mahjong",
-      "Shogi"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "Who was the first official world chess champion?",
-    "correct_answer": "Wilhelm Steinitz",
-    "incorrect_answers": [
-      "Jos&eacute; Ra&uacute;l Capablanca",
-      "Emanuel Lasker",
-      "Bobby Fischer"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "&quot;PAYDAY: The Heist&quot; is a sequel to the board game &quot;Payday&quot;.",
-    "correct_answer": "False",
-    "incorrect_answers": [
-      "True"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "There is a Donald Trump Board Game, which was made in 1989.",
-    "correct_answer": "True",
-    "incorrect_answers": [
-      "False"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "In Yu-Gi-Oh, how does a player perform an Xyz Summon?",
-    "correct_answer": "Overlay at least 2 Monsters of the Same Level",
-    "incorrect_answers": [
-      "Activate a Spell and Send Monsters to the Graveyard",
-      "Add the Monsters&#039; Levels Together to Match the Xyz Monster",
-      "Banish A Number of Monsters From Your Hand And Deck"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "What is the most challenging monster in the Dungeons &amp; Dragons 5th Edition Monster Manual?",
-    "correct_answer": "Tarrasque",
-    "incorrect_answers": [
-      "Beholder",
-      "Displacer Beast",
-      "Lich"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "In Chess, the Queen has the combined movement of which two pieces?",
-    "correct_answer": "Bishop and Rook",
-    "incorrect_answers": [
-      "Rook and King",
-      "Knight and Bishop",
-      "King and Knight"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "About how many Slinkys were sold in their first 60 years (from 1945 to 2005)?",
-    "correct_answer": "300 Million",
-    "incorrect_answers": [
-      "100 Million",
-      "450 Million",
-      "1 Billion"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "When was the board game Twister, released to the public?",
-    "correct_answer": "April 1966",
-    "incorrect_answers": [
-      "September 1965",
-      "January 1969",
-      "February 1966"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "What type is &quot;Magic Drain&quot; in Yugioh! Trading Card Game?",
-    "correct_answer": "Counter Trap",
-    "incorrect_answers": [
-      "Normal Trap",
-      "Quick-Play Spell",
-      "Field Spell"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "The board game Monopoly takes its street names from which real American city?",
-    "correct_answer": "Atlantic City, New Jersey",
-    "incorrect_answers": [
-      "Las Vegas, Nevada",
-      "Duluth, Minnesota",
-      "Charleston, South Carolina"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Entertainment: Board Games",
-    "question": "Which board game was first released on February 6th, 1935?",
-    "correct_answer": "Monopoly",
-    "incorrect_answers": [
-      "Risk",
-      "Clue",
-      "Candy Land"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "In board games, an additional or ammended rule that applies to a certain group or place is informally known as a &quot;what&quot; rule?",
-    "correct_answer": "House",
-    "incorrect_answers": [
-      "Custom",
-      "Extra",
-      "Change"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "In &quot;Magic: The Gathering&quot;, during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?",
-    "correct_answer": "Purple",
-    "incorrect_answers": [
-      "Brown",
-      "Pink",
-      "Orange"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entertainment: Board Games",
-    "question": "In &quot;Magic: The Gathering&quot;, what instant card has the highest converted mana cost?",
-    "correct_answer": "Blinkmoth Infusion",
-    "incorrect_answers": [
-      "Vitalizing Wind",
-      " Chant of Vitu-Ghazi",
-      "Assert Authority"
     ]
   },
   {
@@ -785,24 +309,204 @@
     "type": "multiple",
     "difficulty": "hard",
     "category": "Entertainment: Board Games",
-    "question": "When Magic: The Gathering was first solicited, which of the following was it originally titled?",
-    "correct_answer": "Mana Clash",
+    "question": "In standard Monopoly, what&#039;s the rent if you land on Park Place with no houses?",
+    "correct_answer": "$35",
     "incorrect_answers": [
-      "Magic",
-      "Magic Clash",
-      "Mana Duels"
+      "$30",
+      "$50",
+      "$45"
     ]
   },
   {
     "type": "multiple",
     "difficulty": "hard",
     "category": "Entertainment: Board Games",
-    "question": "Some of the &quot;Fallen Empires&quot; cards from &quot;Magic: The Gathering&quot; were misprinted on the backs of which other card game?",
-    "correct_answer": "Wyvern",
+    "question": "What is the sum of all the tiles in a standard box of Scrabble?",
+    "correct_answer": "187",
     "incorrect_answers": [
-      "Pokemon",
-      "Dominion",
-      "Yu-Gi-Oh"
+      "207",
+      "197",
+      "177"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
+    "correct_answer": "Monopoly",
+    "incorrect_answers": [
+      "Pay Day",
+      "Cluedo",
+      "Coppit"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "The Dice Tower network of board game podcasts and videos is run by which individual?",
+    "correct_answer": "Tom Vasel",
+    "incorrect_answers": [
+      "Jason LeVine",
+      "Borth Sampson",
+      "Uncle Pennybags"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "How many rooms are there, not including the hallways and the set of stairs, in the board game &quot;Clue&quot;?",
+    "correct_answer": "9",
+    "incorrect_answers": [
+      "1",
+      "6",
+      "10"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Which character class in Dungeons and Dragons 5th edition gains it&#039;s powers from making a pact with a being of higher power?",
+    "correct_answer": "Warlock",
+    "incorrect_answers": [
+      "Wizard",
+      "Sorceror",
+      "Cleric"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Which of these cards from &quot;Magic: The Gathering&quot; has a flavor text that begins with &quot;Oi oi oi&quot;?",
+    "correct_answer": "Uthden Troll",
+    "incorrect_answers": [
+      "Lotleth Troll",
+      "Albino Troll",
+      "Harvester Troll"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "In board games, an additional or ammended rule that applies to a certain group or place is informally known as a &quot;what&quot; rule?",
+    "correct_answer": "House",
+    "incorrect_answers": [
+      "Custom",
+      "Extra",
+      "Change"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Which of these board games do NOT utilize standard 6-sided dice?",
+    "correct_answer": "The Game of Life",
+    "incorrect_answers": [
+      "Monopoly",
+      "Risk",
+      "Snakes and Ladders"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "In &quot;Magic: The Gathering&quot;, during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?",
+    "correct_answer": "Purple",
+    "incorrect_answers": [
+      "Brown",
+      "Pink",
+      "Orange"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "In chess, which is a characteristic of the King&#039;s Gambit?",
+    "correct_answer": "Sacrificing a pawn",
+    "incorrect_answers": [
+      "Sacrificing the king for a queen",
+      "Castling kingside",
+      "Moving the king on the 2nd move"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "What is the world&#039;s oldest board game?",
+    "correct_answer": "Senet",
+    "incorrect_answers": [
+      "Chess",
+      "Checkers",
+      "Go"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "What special item did the creators of Cards Against Humanity ship for their Black Friday pack?",
+    "correct_answer": "Bull Feces",
+    "incorrect_answers": [
+      "A Card Expansion",
+      "A Racist Toy",
+      "Cat Urine"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Which of these cities is NOT featured in the Pandemic board game?",
+    "correct_answer": "Berlin",
+    "incorrect_answers": [
+      "Ho Chi Minh City",
+      "Lagos",
+      "Karachi"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "In what year was the card game Magic: the Gathering first introduced?",
+    "correct_answer": "1993",
+    "incorrect_answers": [
+      "1987",
+      "1998",
+      "2003"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "What was the development code name for the &quot;Weatherlight&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1997?",
+    "correct_answer": "Mocha Latte",
+    "incorrect_answers": [
+      "Decaf",
+      "Frappuccino",
+      "Macchiato"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "In Magic: The Gathering, what term for blocking was established in the Portal set?",
+    "correct_answer": "Intercepting",
+    "incorrect_answers": [
+      "Blocking",
+      "Resisting",
+      "Shielding"
     ]
   },
   {
@@ -815,6 +519,42 @@
       "Paris",
       "Marseille",
       "Clermont-Ferrand"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "How many dots are on a single die?",
+    "correct_answer": "21",
+    "incorrect_answers": [
+      "24",
+      "15",
+      "18"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "In Magic: The Gathering, what was a tribute card to Jamie Wakefield&#039;s late wife Marilyn, who loved horses?",
+    "correct_answer": "Timbermare",
+    "incorrect_answers": [
+      "Loyal Pegasus",
+      "Vryn Wingmare",
+      "Sungrace Pegasus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Who is the main character in the VHS tape included in the board game Nightmare?",
+    "correct_answer": "The Gatekeeper",
+    "incorrect_answers": [
+      "The Kryptkeeper",
+      "The Monster",
+      "The Nightmare"
     ]
   },
   {
@@ -833,48 +573,320 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "Entertainment: Board Games",
-    "question": "Which of these board games do NOT utilize standard 6-sided dice?",
-    "correct_answer": "The Game of Life",
+    "question": "When was the board game Twister, released to the public?",
+    "correct_answer": "April 1966",
     "incorrect_answers": [
-      "Monopoly",
-      "Risk",
-      "Snakes and Ladders"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
-    "correct_answer": "Monopoly",
-    "incorrect_answers": [
-      "Pay Day",
-      "Cluedo",
-      "Coppit"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Board Games",
-    "question": "How many spaces are there on a standard Monopoly board?",
-    "correct_answer": "40",
-    "incorrect_answers": [
-      "28",
-      "55",
-      "36"
+      "September 1965",
+      "January 1969",
+      "February 1966"
     ]
   },
   {
     "type": "multiple",
     "difficulty": "hard",
     "category": "Entertainment: Board Games",
-    "question": "How many rooms are there, not including the hallways and the set of stairs, in the board game &quot;Clue&quot;?",
-    "correct_answer": "9",
+    "question": "In Magic: The Gathering, what card&#039;s flavor text is &quot;Catch!&quot;?",
+    "correct_answer": "Lava Axe",
     "incorrect_answers": [
-      "1",
-      "6",
-      "10"
+      "Stone-Throwing Devils",
+      "Ember Shot",
+      "Throwing Knife"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "There is a Donald Trump Board Game, which was made in 1989.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "The board game &quot;Ra&quot; was designed by which designer? ",
+    "correct_answer": "Reiner Knizia",
+    "incorrect_answers": [
+      "Bruno Cathala",
+      "Uwe Rosenburg",
+      "Allison Kline"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "In Yu-Gi-Oh, how does a player perform an Xyz Summon?",
+    "correct_answer": "Overlay at least 2 Monsters of the Same Level",
+    "incorrect_answers": [
+      "Activate a Spell and Send Monsters to the Graveyard",
+      "Add the Monsters&#039; Levels Together to Match the Xyz Monster",
+      "Banish A Number of Monsters From Your Hand And Deck"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "In Chess, the Queen has the combined movement of which two pieces?",
+    "correct_answer": "Bishop and Rook",
+    "incorrect_answers": [
+      "Rook and King",
+      "Knight and Bishop",
+      "King and Knight"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Snakes and Ladders was originally created in India?",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "What is the most challenging monster in the Dungeons &amp; Dragons 5th Edition Monster Manual?",
+    "correct_answer": "Tarrasque",
+    "incorrect_answers": [
+      "Beholder",
+      "Displacer Beast",
+      "Lich"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "In &quot;Magic: The Gathering&quot;, what instant card has the highest converted mana cost?",
+    "correct_answer": "Blinkmoth Infusion",
+    "incorrect_answers": [
+      "Vitalizing Wind",
+      " Chant of Vitu-Ghazi",
+      "Assert Authority"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "In Dungeons and Dragons (5th edition), what stat do you normally add onto your initiative die roll?",
+    "correct_answer": "Dexterity",
+    "incorrect_answers": [
+      "Speed",
+      "Strength",
+      "Wisdom"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "How many pieces are there on the board at the start of a game of chess?",
+    "correct_answer": "32",
+    "incorrect_answers": [
+      "16",
+      "20",
+      "36"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "About how many Slinkys were sold in their first 60 years (from 1945 to 2005)?",
+    "correct_answer": "300 Million",
+    "incorrect_answers": [
+      "100 Million",
+      "450 Million",
+      "1 Billion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Which one of these is not a real game in the Dungeons &amp; Dragons series?",
+    "correct_answer": "Extreme Dungeons &amp; Dragons",
+    "incorrect_answers": [
+      "Advanced Dungeons &amp; Dragons",
+      "Dungeons &amp; Dragons 3.5th edition",
+      "Advanced Dungeons &amp; Dragons 2nd edition"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "In the Dungeons and Dragons universe, Beshaba is the deity of bad luck. ",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "&quot;PAYDAY: The Heist&quot; is a sequel to the board game &quot;Payday&quot;.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Who was world chess champion between 1894 and 1921",
+    "correct_answer": "Emanuel Lasker",
+    "incorrect_answers": [
+      "Jos&eacute; Ra&uacute;l Capablanca",
+      "Wilhelm Steinitz",
+      "Bobby Fischer"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "How many points is the Z tile worth in Scrabble?",
+    "correct_answer": "10",
+    "incorrect_answers": [
+      "8",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "In the Board Game, Settlers of Catan, a die roll of what number causes the Robber to attack? ",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "3",
+      "10",
+      "1"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "When setting up a chess board, the king is placed on a square of his own color.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "The board game Go has more possible legal positions than the number of atoms in the visible universe.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Which board game was first released on February 6th, 1935?",
+    "correct_answer": "Monopoly",
+    "incorrect_answers": [
+      "Risk",
+      "Clue",
+      "Candy Land"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "The card game &quot;Munchkin&quot; won the 2001 Origins Award for Best Traditional Card Game.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Some of the &quot;Fallen Empires&quot; cards from &quot;Magic: The Gathering&quot; were misprinted on the backs of which other card game?",
+    "correct_answer": "Wyvern",
+    "incorrect_answers": [
+      "Pokemon",
+      "Dominion",
+      "Yu-Gi-Oh"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "What happens when you roll 3 doubles in a row in Monopoly?",
+    "correct_answer": "Go to jail",
+    "incorrect_answers": [
+      "Get paid $200",
+      "Pay $200",
+      "Move to Free Parking"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "What was the development code name for the &quot;Urza&#039;s Destiny&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1999?",
+    "correct_answer": "Chimichanga",
+    "incorrect_answers": [
+      "Burrito",
+      "Taquito",
+      "Enchilada"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "What do you declare in Rīchi Mahjong when you&#039;ve drawn your winning tile?",
+    "correct_answer": "Tsumo",
+    "incorrect_answers": [
+      "Ron",
+      "Rīchi",
+      "Kan"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "In the game &quot;Racko&quot; you may pick up ANY card from the discard pile.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
+    "correct_answer": "Brown",
+    "incorrect_answers": [
+      "Green",
+      "Yellow",
+      "Blue"
     ]
   }
 ]

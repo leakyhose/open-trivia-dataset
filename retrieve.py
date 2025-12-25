@@ -6,7 +6,7 @@ import sys
 TOKEN_URL = "https://opentdb.com/api_token.php?command=request"
 TOTAL_QUESTIONS_URL = "https://opentdb.com/api_count_global.php"
 API_URL = "https://opentdb.com/api.php"
-OUTPUT_FILE = "data/all_questions.json"
+OUTPUT_FILE = "./data/all_questions.json"
 API_DELAY_SECONDS = 5.1
 
 def get_token():
@@ -21,9 +21,9 @@ def get_total_questions():
     data = r.json()
     return data["overall"]["total_num_of_verified_questions"]
 
-def fetch_batch(token):
+def fetch_batch(token, amount=50):
     params = {
-        "amount": 50,
+        "amount": amount,
         "token": token
     }
     r = requests.get(API_URL, params=params)
@@ -50,7 +50,13 @@ def main():
     print(f"Session token: {token}")
 
     all_questions = []
+    
+    if total_questions % 50 != 0: # As API returns 50, fetches the remainder first
+        results = fetch_batch(token, amount=(total_questions%50)).get("results", [])
+        all_questions.extend(results)
+        time.sleep(API_DELAY_SECONDS)
 
+    
     while True:
         data = fetch_batch(token)
         code = data.get("response_code")

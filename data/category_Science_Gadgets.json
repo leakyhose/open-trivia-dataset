@@ -1,96 +1,14 @@
 [
   {
-    "type": "boolean",
-    "difficulty": "easy",
-    "category": "Science: Gadgets",
-    "question": "The communication protocol NFC stands for Near-Field Control.",
-    "correct_answer": "False",
-    "incorrect_answers": [
-      "True"
-    ]
-  },
-  {
     "type": "multiple",
     "difficulty": "easy",
     "category": "Science: Gadgets",
-    "question": "Which gaming console is developed by Sony?",
-    "correct_answer": "PlayStation",
+    "question": "When was the Tamagotchi digital pet released?",
+    "correct_answer": "1996",
     "incorrect_answers": [
-      "Xbox",
-      "Atari",
-      "Nintendo Switch"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Science: Gadgets",
-    "question": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
-    "correct_answer": "Courage",
-    "incorrect_answers": [
-      "Innovation",
-      "Revolution",
-      "Bravery"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Science: Gadgets",
-    "question": "When was the iPhone released?",
-    "correct_answer": "2007",
-    "incorrect_answers": [
-      "2005",
-      "2006",
-      "2004"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Science: Gadgets",
-    "question": "Which of the following is not a type of computer mouse?",
-    "correct_answer": "Smoothie mouse",
-    "incorrect_answers": [
-      "Drum mouse",
-      "Trackball mouse",
-      "Optical mouse"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Science: Gadgets",
-    "question": "Which round does a WW2 M1 Garand fire?",
-    "correct_answer": ".30-06",
-    "incorrect_answers": [
-      ".308",
-      "7.62",
-      "7.62x51mm"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Science: Gadgets",
-    "question": "What does SSD stand for in the context of computer storage?",
-    "correct_answer": " Solid State Drive",
-    "incorrect_answers": [
-      "Software Storage Device",
-      "Super Speed Data",
-      "Secure System Disk"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Science: Gadgets",
-    "question": "Which company developed the Hololens?",
-    "correct_answer": "Microsoft",
-    "incorrect_answers": [
-      "HTC",
-      "Oculus",
-      "Tobii"
+      "1989",
+      "1992",
+      "1990"
     ]
   },
   {
@@ -103,64 +21,6 @@
       "2010",
       "2011",
       "2013"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Science: Gadgets",
-    "question": "What is the name of a simple machine that is made up of a stiff arm that can move freely around a fixed point?",
-    "correct_answer": "Lever",
-    "incorrect_answers": [
-      "Wedge",
-      "Screw",
-      "Pulley"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Science: Gadgets",
-    "question": "Which company manufactured the iconic TR-808 drum machine?",
-    "correct_answer": "Roland",
-    "incorrect_answers": [
-      "Technics",
-      "Korg",
-      "Casio"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Science: Gadgets",
-    "question": "Who built the first laser?",
-    "correct_answer": "Theodore Harold Maiman",
-    "incorrect_answers": [
-      "Nikola Tesla",
-      "Jack Kilby",
-      "Edith Clarke"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "medium",
-    "category": "Science: Gadgets",
-    "question": "The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.",
-    "correct_answer": "False",
-    "incorrect_answers": [
-      "True"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Science: Gadgets",
-    "question": "What is the &quot;Mitsubishi Wakamaru&quot;?",
-    "correct_answer": "A robot",
-    "incorrect_answers": [
-      "A pickup truck",
-      "An motorcycle",
-      "A motorboat"
     ]
   },
   {
@@ -187,6 +47,42 @@
   },
   {
     "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Gadgets",
+    "question": "Which round does a WW2 M1 Garand fire?",
+    "correct_answer": ".30-06",
+    "incorrect_answers": [
+      ".308",
+      "7.62",
+      "7.62x51mm"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Gadgets",
+    "question": "Which company developed the Hololens?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": [
+      "HTC",
+      "Oculus",
+      "Tobii"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Gadgets",
+    "question": "Which of the following cellular device companies is NOT headquartered in Asia?",
+    "correct_answer": "Nokia",
+    "incorrect_answers": [
+      "LG Electronics",
+      "Samsung",
+      "HTC"
+    ]
+  },
+  {
+    "type": "multiple",
     "difficulty": "easy",
     "category": "Science: Gadgets",
     "question": "When was the DVD invented?",
@@ -201,12 +97,12 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "Science: Gadgets",
-    "question": "Which virtual assistant is developed by Amazon?",
-    "correct_answer": "Alexa",
+    "question": "Which of the following is not a type of computer mouse?",
+    "correct_answer": "Smoothie mouse",
     "incorrect_answers": [
-      "Google Assistant",
-      "Siri",
-      "Cortana"
+      "Drum mouse",
+      "Trackball mouse",
+      "Optical mouse"
     ]
   },
   {
@@ -235,12 +131,34 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "Science: Gadgets",
-    "question": "What round is a classic AK-47 chambered in?",
-    "correct_answer": "7.62x39mm",
+    "question": "What does SSD stand for in the context of computer storage?",
+    "correct_answer": " Solid State Drive",
     "incorrect_answers": [
-      "7.62x51mm",
-      "5.56x45mm",
-      "5.45x39mm"
+      "Software Storage Device",
+      "Super Speed Data",
+      "Secure System Disk"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Gadgets",
+    "question": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
+    "correct_answer": "Courage",
+    "incorrect_answers": [
+      "Innovation",
+      "Revolution",
+      "Bravery"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Gadgets",
+    "question": "The communication protocol NFC stands for Near-Field Control.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
     ]
   },
   {
@@ -259,12 +177,24 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "Science: Gadgets",
-    "question": "What does GPS stand for?",
-    "correct_answer": "Global Positioning System",
+    "question": "The term &quot;battery&quot; to describe an electrical storage device was coined by?",
+    "correct_answer": "Benjamin Franklin",
     "incorrect_answers": [
-      "Global Personal System",
-      "General Positioning System",
-      "General Personal Satellite"
+      "Nikola Tesla",
+      "Luigi Galvani",
+      " Alessandro Volta"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Gadgets",
+    "question": "Which virtual assistant is developed by Amazon?",
+    "correct_answer": "Alexa",
+    "incorrect_answers": [
+      "Google Assistant",
+      "Siri",
+      "Cortana"
     ]
   },
   {
@@ -277,6 +207,52 @@
       "Barometer",
       "Ruler",
       "Haemoerythrometer"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Gadgets",
+    "question": "When was the iPhone released?",
+    "correct_answer": "2007",
+    "incorrect_answers": [
+      "2005",
+      "2006",
+      "2004"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Gadgets",
+    "question": "The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Gadgets",
+    "question": "What are the base station trackers used for the HTC Vive called?",
+    "correct_answer": "Lighthouse",
+    "incorrect_answers": [
+      "Motion",
+      "Constellation ",
+      "Trackers"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Gadgets",
+    "question": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+    "correct_answer": "Challenger and Columbia",
+    "incorrect_answers": [
+      "Enterprise and Atlantis",
+      "Discovery and Endeavour",
+      "None of the Above"
     ]
   },
   {
@@ -295,48 +271,72 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Science: Gadgets",
-    "question": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
-    "correct_answer": "Challenger and Columbia",
+    "question": "Which company manufactured the iconic TR-808 drum machine?",
+    "correct_answer": "Roland",
     "incorrect_answers": [
-      "Enterprise and Atlantis",
-      "Discovery and Endeavour",
-      "None of the Above"
+      "Technics",
+      "Korg",
+      "Casio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Gadgets",
+    "question": "Which gaming console is developed by Sony?",
+    "correct_answer": "PlayStation",
+    "incorrect_answers": [
+      "Xbox",
+      "Atari",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Gadgets",
+    "question": "What is the name of a simple machine that is made up of a stiff arm that can move freely around a fixed point?",
+    "correct_answer": "Lever",
+    "incorrect_answers": [
+      "Wedge",
+      "Screw",
+      "Pulley"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Gadgets",
+    "question": "What round is a classic AK-47 chambered in?",
+    "correct_answer": "7.62x39mm",
+    "incorrect_answers": [
+      "7.62x51mm",
+      "5.56x45mm",
+      "5.45x39mm"
     ]
   },
   {
     "type": "multiple",
     "difficulty": "medium",
     "category": "Science: Gadgets",
-    "question": "Who patented a steam engine that produced continuous rotary motion?",
-    "correct_answer": "James Watt",
+    "question": "What is the &quot;Mitsubishi Wakamaru&quot;?",
+    "correct_answer": "A robot",
     "incorrect_answers": [
-      "Nikola Tesla",
-      "Albert Einstein",
-      "Alessandro Volta"
+      "A pickup truck",
+      "An motorcycle",
+      "A motorboat"
     ]
   },
   {
     "type": "multiple",
     "difficulty": "easy",
     "category": "Science: Gadgets",
-    "question": "When was the Tamagotchi digital pet released?",
-    "correct_answer": "1996",
+    "question": "What does GPS stand for?",
+    "correct_answer": "Global Positioning System",
     "incorrect_answers": [
-      "1989",
-      "1992",
-      "1990"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Science: Gadgets",
-    "question": "The term &quot;battery&quot; to describe an electrical storage device was coined by?",
-    "correct_answer": "Benjamin Franklin",
-    "incorrect_answers": [
-      "Nikola Tesla",
-      "Luigi Galvani",
-      " Alessandro Volta"
+      "Global Personal System",
+      "General Positioning System",
+      "General Personal Satellite"
     ]
   },
   {
@@ -353,26 +353,26 @@
   },
   {
     "type": "multiple",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "category": "Science: Gadgets",
-    "question": "What are the base station trackers used for the HTC Vive called?",
-    "correct_answer": "Lighthouse",
+    "question": "Who built the first laser?",
+    "correct_answer": "Theodore Harold Maiman",
     "incorrect_answers": [
-      "Motion",
-      "Constellation ",
-      "Trackers"
+      "Nikola Tesla",
+      "Jack Kilby",
+      "Edith Clarke"
     ]
   },
   {
     "type": "multiple",
-    "difficulty": "hard",
+    "difficulty": "medium",
     "category": "Science: Gadgets",
-    "question": "Which of the following cellular device companies is NOT headquartered in Asia?",
-    "correct_answer": "Nokia",
+    "question": "Who patented a steam engine that produced continuous rotary motion?",
+    "correct_answer": "James Watt",
     "incorrect_answers": [
-      "LG Electronics",
-      "Samsung",
-      "HTC"
+      "Nikola Tesla",
+      "Albert Einstein",
+      "Alessandro Volta"
     ]
   }
 ]

@@ -1,312 +1,6 @@
 [
   {
     "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "What is the name of the Japanese art of folding paper into decorative shapes and figures?",
-    "correct_answer": "Origami",
-    "incorrect_answers": [
-      "Sumi-e",
-      "Ukiyo-e",
-      "Haiku"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Who painted the Mona Lisa?",
-    "correct_answer": "Leonardo da Vinci",
-    "incorrect_answers": [
-      "Pablo Picasso",
-      "Claude Monet",
-      "Vincent van Gogh"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Which Van Gogh painting depicts the view from his asylum in Saint-R&eacute;my-de-Provence in southern France?",
-    "correct_answer": "The Starry Night",
-    "incorrect_answers": [
-      "Wheatfields with Crows",
-      "The Sower with Setting Sun",
-      "The Church at Auvers"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": " What color is produced by mixing black and white?",
-    "correct_answer": "Grey",
-    "incorrect_answers": [
-      "Black",
-      "Brown",
-      "White"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Who painted The Starry Night?",
-    "correct_answer": "Vincent van Gogh",
-    "incorrect_answers": [
-      "Pablo Picasso",
-      "Leonardo da Vinci",
-      "Michelangelo"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "Which of these are the name of a famous marker brand?",
-    "correct_answer": "Copic",
-    "incorrect_answers": [
-      "Dopix",
-      "Cofix",
-      "Marx"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "What nationality was the surrealist painter Salvador Dali?",
-    "correct_answer": "Spanish",
-    "incorrect_answers": [
-      "Italian",
-      "French",
-      "Portuguese"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Leonardo da Vinci was not the creator of the Mona Lisa.",
-    "correct_answer": "False",
-    "incorrect_answers": [
-      "True"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Art",
-    "question": "The painting &quot;The Starry Night&quot; by Vincent van Gogh was part of which art movement?",
-    "correct_answer": "Post-Impressionism",
-    "incorrect_answers": [
-      "Romanticism",
-      "Neoclassical",
-      "Impressionism"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Who painted the Mona Lisa?",
-    "correct_answer": "Leonardo da Vinci ",
-    "incorrect_answers": [
-      "Pablo Picasso",
-      " Vincent van Gogh",
-      "Michelangelo"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "What were Marcel Duchamp&#039;s readymades?",
-    "correct_answer": "utilitarian objects elevated to the status of art",
-    "incorrect_answers": [
-      "a series focused on color and light as opposed to line and shape",
-      "paintings with a barely visible outlined square",
-      "a group of identical steel boxes jutting from the wall "
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Art",
-    "question": "What was the major distinction between the English and French Gothic styles of architecture?",
-    "correct_answer": "Fan vaulting",
-    "incorrect_answers": [
-      "Pinnacles",
-      "Gargoyles",
-      "Hemispherical Domes"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "Venus of Willendorf is one of the earliest works of art, depicting the planets Mars and Venus embrace in the heavens at night.",
-    "correct_answer": "False",
-    "incorrect_answers": [
-      "True"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Which artist painted the late 15th century mural &#039;The Last Supper&#039;?",
-    "correct_answer": "Leonardo da Vinci",
-    "incorrect_answers": [
-      "Piero della Francesca",
-      "Paolo Uccello",
-      "Luca Pacioli"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "Which artist&#039;s style was to use small different colored dots to create a picture?",
-    "correct_answer": "Georges Seurat",
-    "incorrect_answers": [
-      "Paul C&eacute;zanne",
-      "Vincent Van Gogh",
-      "Henri Rousseau"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
-    "correct_answer": "Salvador Dali",
-    "incorrect_answers": [
-      "Jackson Pollock",
-      "Vincent van Gogh",
-      "Edgar Degas"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Who sculpted the statue of David?",
-    "correct_answer": "Michelangelo",
-    "incorrect_answers": [
-      "Gian Lorenzo Bernini",
-      "Auguste Rodin",
-      "Donatello"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Who painted the biblical fresco The Creation of Adam?",
-    "correct_answer": "Michelangelo",
-    "incorrect_answers": [
-      "Leonardo da Vinci",
-      "Caravaggio",
-      "Rembrandt"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Who painted the Sistine Chapel?",
-    "correct_answer": "Michelangelo",
-    "incorrect_answers": [
-      "Leonardo da Vinci",
-      "Pablo Picasso",
-      "Raphael"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
-    "correct_answer": "Andy Warhol",
-    "incorrect_answers": [
-      "Roy Lichtenstein",
-      "David Hockney",
-      "Peter Blake"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Art",
-    "question": "What French sculptor designed the Statue of Liberty? ",
-    "correct_answer": "Fr&eacute;d&eacute;ric Auguste Bartholdi",
-    "incorrect_answers": [
-      "Jean-L&eacute;on G&eacute;r&ocirc;me",
-      "Auguste Rodin",
-      "Henri Matisse"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "Vincent van Gogh cut off one of his ears.",
-    "correct_answer": "True",
-    "incorrect_answers": [
-      "False"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Art",
-    "question": "What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?",
-    "correct_answer": "1502",
-    "incorrect_answers": [
-      "1702",
-      "1402",
-      "1602"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Art",
-    "question": "What was the first successful and commercially viable photographic technique?",
-    "correct_answer": "The Daguerreotype",
-    "incorrect_answers": [
-      "Collodion process",
-      "The Turin Shroud",
-      "Kodachrome film"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "Which time signature is commonly known as &ldquo;Cut Time?&rdquo;",
-    "correct_answer": "2/2",
-    "incorrect_answers": [
-      "4/4",
-      "6/8",
-      "3/4"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Art",
-    "question": "Albrecht D&uuml;rer&#039;s birthplace and place of death were in...",
-    "correct_answer": "N&uuml;rnberg",
-    "incorrect_answers": [
-      "Augsburg",
-      "Bamberg",
-      "Berlin"
-    ]
-  },
-  {
-    "type": "multiple",
     "difficulty": "hard",
     "category": "Art",
     "question": "Which of these is not an additional variation of the color purple?",
@@ -315,120 +9,6 @@
       "Byzantium",
       "Pomp and Power",
       "Palatinate"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "Which artist painted &ldquo;The Treachery of Images,&rdquo; a painting of a pipe with the description &quot;this is not a pipe&quot;?",
-    "correct_answer": "Magritte",
-    "incorrect_answers": [
-      "Matisse",
-      "Modigliani",
-      "Munch "
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Art",
-    "question": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
-    "correct_answer": "Neoplasticism",
-    "incorrect_answers": [
-      "Precisionism",
-      "Cubism",
-      "Impressionism"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "hard",
-    "category": "Art",
-    "question": "The Statue of Liberty&#039;s official name is &ldquo;Liberty Enlightening the World&rdquo;.",
-    "correct_answer": "True",
-    "incorrect_answers": [
-      "False"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Leonardo da Vinci&#039;s Mona Lisa does not have eyebrows.",
-    "correct_answer": "True",
-    "incorrect_answers": [
-      "False"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "hard",
-    "category": "Art",
-    "question": "What year was the Mona Lisa finished?",
-    "correct_answer": "1504",
-    "incorrect_answers": [
-      "1487",
-      "1523",
-      "1511"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "What is a fundamental element of the Gothic style of architecture?",
-    "correct_answer": "pointed arch",
-    "incorrect_answers": [
-      "coffered ceilings",
-      "fa&ccedil;ades surmounted by a pediment ",
-      "internal frescoes"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "What is the world&#039;s oldest known piece of fiction?",
-    "correct_answer": "Epic of Gilgamesh",
-    "incorrect_answers": [
-      "Papyrus of Ani",
-      "Code of Hammurabi",
-      "Rosetta Stone"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "Who painted the epic mural Guernica?",
-    "correct_answer": "Pablo Picasso",
-    "incorrect_answers": [
-      "Francisco Goya",
-      "Leonardo da Vinci",
-      "Henri Matisse"
-    ]
-  },
-  {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Art",
-    "question": "Who painted &quot;The Starry Night&quot;?",
-    "correct_answer": "Vincent van Gogh",
-    "incorrect_answers": [
-      "Edvard Munch",
-      "Pablo Picasso",
-      "Claude Monet"
-    ]
-  },
-  {
-    "type": "boolean",
-    "difficulty": "medium",
-    "category": "Art",
-    "question": "Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;",
-    "correct_answer": "True",
-    "incorrect_answers": [
-      "False"
     ]
   },
   {
@@ -456,6 +36,202 @@
     ]
   },
   {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+    "correct_answer": "Andy Warhol",
+    "incorrect_answers": [
+      "Roy Lichtenstein",
+      "David Hockney",
+      "Peter Blake"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Leonardo da Vinci&#039;s Mona Lisa does not have eyebrows.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Which artist painted the late 15th century mural &#039;The Last Supper&#039;?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": [
+      "Piero della Francesca",
+      "Paolo Uccello",
+      "Luca Pacioli"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Art",
+    "question": "What year was the Mona Lisa finished?",
+    "correct_answer": "1504",
+    "incorrect_answers": [
+      "1487",
+      "1523",
+      "1511"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "Which artist&#039;s style was to use small different colored dots to create a picture?",
+    "correct_answer": "Georges Seurat",
+    "incorrect_answers": [
+      "Paul C&eacute;zanne",
+      "Vincent Van Gogh",
+      "Henri Rousseau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Who painted The Starry Night?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": [
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Who painted the Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci ",
+    "incorrect_answers": [
+      "Pablo Picasso",
+      " Vincent van Gogh",
+      "Michelangelo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "Who painted the epic mural Guernica?",
+    "correct_answer": "Pablo Picasso",
+    "incorrect_answers": [
+      "Francisco Goya",
+      "Leonardo da Vinci",
+      "Henri Matisse"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Art",
+    "question": "The Statue of Liberty&#039;s official name is &ldquo;Liberty Enlightening the World&rdquo;.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "What were Marcel Duchamp&#039;s readymades?",
+    "correct_answer": "utilitarian objects elevated to the status of art",
+    "incorrect_answers": [
+      "a series focused on color and light as opposed to line and shape",
+      "paintings with a barely visible outlined square",
+      "a group of identical steel boxes jutting from the wall "
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "What is the name of the Japanese art of folding paper into decorative shapes and figures?",
+    "correct_answer": "Origami",
+    "incorrect_answers": [
+      "Sumi-e",
+      "Ukiyo-e",
+      "Haiku"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": " What color is produced by mixing black and white?",
+    "correct_answer": "Grey",
+    "incorrect_answers": [
+      "Black",
+      "Brown",
+      "White"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "Vincent van Gogh cut off one of his ears.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Who painted the Sistine Chapel?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": [
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Raphael"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Art",
+    "question": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
+    "correct_answer": "Neoplasticism",
+    "incorrect_answers": [
+      "Precisionism",
+      "Cubism",
+      "Impressionism"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Art",
+    "question": "The painting &quot;The Starry Night&quot; by Vincent van Gogh was part of which art movement?",
+    "correct_answer": "Post-Impressionism",
+    "incorrect_answers": [
+      "Romanticism",
+      "Neoclassical",
+      "Impressionism"
+    ]
+  },
+  {
     "type": "multiple",
     "difficulty": "hard",
     "category": "Art",
@@ -469,6 +245,42 @@
   },
   {
     "type": "multiple",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "Which artist painted &ldquo;The Treachery of Images,&rdquo; a painting of a pipe with the description &quot;this is not a pipe&quot;?",
+    "correct_answer": "Magritte",
+    "incorrect_answers": [
+      "Matisse",
+      "Modigliani",
+      "Munch "
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Art",
+    "question": "What was the first successful and commercially viable photographic technique?",
+    "correct_answer": "The Daguerreotype",
+    "incorrect_answers": [
+      "Collodion process",
+      "The Turin Shroud",
+      "Kodachrome film"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Art",
+    "question": "What French sculptor designed the Statue of Liberty? ",
+    "correct_answer": "Fr&eacute;d&eacute;ric Auguste Bartholdi",
+    "incorrect_answers": [
+      "Jean-L&eacute;on G&eacute;r&ocirc;me",
+      "Auguste Rodin",
+      "Henri Matisse"
+    ]
+  },
+  {
+    "type": "multiple",
     "difficulty": "easy",
     "category": "Art",
     "question": "Which painting was not made by Vincent Van Gogh?",
@@ -477,6 +289,194 @@
       "Caf&eacute; Terrace at Night",
       "Bedroom In Arles",
       "Starry Night"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Art",
+    "question": "What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?",
+    "correct_answer": "1502",
+    "incorrect_answers": [
+      "1702",
+      "1402",
+      "1602"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Who painted the Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": [
+      "Pablo Picasso",
+      "Claude Monet",
+      "Vincent van Gogh"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Art",
+    "question": "What was the major distinction between the English and French Gothic styles of architecture?",
+    "correct_answer": "Fan vaulting",
+    "incorrect_answers": [
+      "Pinnacles",
+      "Gargoyles",
+      "Hemispherical Domes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Who sculpted the statue of David?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": [
+      "Gian Lorenzo Bernini",
+      "Auguste Rodin",
+      "Donatello"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "Venus of Willendorf is one of the earliest works of art, depicting the planets Mars and Venus embrace in the heavens at night.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "What is the world&#039;s oldest known piece of fiction?",
+    "correct_answer": "Epic of Gilgamesh",
+    "incorrect_answers": [
+      "Papyrus of Ani",
+      "Code of Hammurabi",
+      "Rosetta Stone"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "Which time signature is commonly known as &ldquo;Cut Time?&rdquo;",
+    "correct_answer": "2/2",
+    "incorrect_answers": [
+      "4/4",
+      "6/8",
+      "3/4"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "What nationality was the surrealist painter Salvador Dali?",
+    "correct_answer": "Spanish",
+    "incorrect_answers": [
+      "Italian",
+      "French",
+      "Portuguese"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "Which of these are the name of a famous marker brand?",
+    "correct_answer": "Copic",
+    "incorrect_answers": [
+      "Dopix",
+      "Cofix",
+      "Marx"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Art",
+    "question": "Albrecht D&uuml;rer&#039;s birthplace and place of death were in...",
+    "correct_answer": "N&uuml;rnberg",
+    "incorrect_answers": [
+      "Augsburg",
+      "Bamberg",
+      "Berlin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Which Van Gogh painting depicts the view from his asylum in Saint-R&eacute;my-de-Provence in southern France?",
+    "correct_answer": "The Starry Night",
+    "incorrect_answers": [
+      "Wheatfields with Crows",
+      "The Sower with Setting Sun",
+      "The Church at Auvers"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+    "correct_answer": "Salvador Dali",
+    "incorrect_answers": [
+      "Jackson Pollock",
+      "Vincent van Gogh",
+      "Edgar Degas"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Who painted the biblical fresco The Creation of Adam?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": [
+      "Leonardo da Vinci",
+      "Caravaggio",
+      "Rembrandt"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Who painted &quot;The Starry Night&quot;?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": [
+      "Edvard Munch",
+      "Pablo Picasso",
+      "Claude Monet"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "What is a fundamental element of the Gothic style of architecture?",
+    "correct_answer": "pointed arch",
+    "incorrect_answers": [
+      "coffered ceilings",
+      "fa&ccedil;ades surmounted by a pediment ",
+      "internal frescoes"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Art",
+    "question": "Leonardo da Vinci was not the creator of the Mona Lisa.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
     ]
   }
 ]
